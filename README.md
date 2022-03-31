@@ -9,4 +9,4 @@ reach me at : [mail](supradatripathy789@gmail.com)
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushmanTripathy&layout=compact&exclude_repo=.config&langs_count=6&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suprada-2002&layout=compact&exclude_repo=.config&langs_count=6&theme=dark" />
