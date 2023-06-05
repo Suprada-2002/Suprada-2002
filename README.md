@@ -23,5 +23,4 @@ reach me at : [mail](supradatripathy789@gmail.com) <br />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suprada-2002)](https://github.com/Suprada-2002/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suprada-2002&layout=compactlangs_count=8&theme=dark)
