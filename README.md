@@ -26,3 +26,4 @@ reach me at : [mail](supradatripathy789@gmail.com) <br />
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suprada-2002&layout=compact&langs_count=8&theme=dark)
+ <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Suprada-2002&show_icons=true&theme=dark"/>
