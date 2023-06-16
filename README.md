@@ -1,3 +1,4 @@
+<div style="display:grid; place-items:center">
 👏
 <br />
 Hi, I am Suprada Tripathy. <br/>
@@ -23,3 +24,4 @@ reach me at : [mail](supradatripathy789@gmail.com) <br />
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suprada-2002&layout=compact&langs_count=8&theme=dark)
+</div>
