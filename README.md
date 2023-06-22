@@ -1,7 +1,7 @@
 👏
 <br />
-Hi, I am <b>Suprada Tripathy</b>. <br/>
-self taught web developer and linux enthusiast <br />
+## Hi, I am <b>Suprada Tripathy</b>
+self-taught web developer and linux enthusiast <br />
 reach me at : [mail](supradatripathy789@gmail.com) <br />
 
 ## My Tech Stack
