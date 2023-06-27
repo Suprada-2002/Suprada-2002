@@ -1,7 +1,7 @@
 👏
 <br />
 ## Hi, I am <b>Suprada Tripathy</b>
-self-taught web developer and linux enthusiast <br />
+self-taught web developer and Linux enthusiast <br />
 reach me at : [mail](supradatripathy789@gmail.com) <br />
 
 ## My Tech Stack
@@ -26,6 +26,6 @@ reach me at : [mail](supradatripathy789@gmail.com) <br />
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suprada-2002&layout=compact&langs_count=8&theme=dark)
- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Suprada-2002&show_icons=true&theme=dark"/>
-<br /><br />
+<!---  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Suprada-2002&show_icons=true&theme=dark"/> --->
+
 ![](https://komarev.com/ghpvc/?username=Suprada-2002&color=blue&&align=left)
