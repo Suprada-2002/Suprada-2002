@@ -1,6 +1,5 @@
-👏
-<br />
-## Hi, I am <b>Suprada Tripathy</b>
+##  Hi, I am <b>Suprada Tripathy 👏
+
 Self-taught web developer and Linux enthusiast <br />
 My [Mail](supradatripathy789@gmail.com) <br />
 
