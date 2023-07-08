@@ -1,7 +1,16 @@
 ##  Hi, I am <b>Suprada Tripathy 👏
 
-Self-taught web developer and Linux enthusiast <br />
-My [Mail](supradatripathy789@gmail.com) <br />
+![suprada](https://github.com/Suprada-2002/Suprada-2002/assets/87217681/2be87aae-50c1-4b31-a63a-78c6b39c9379)
+
+
+I'm a Full Stack Web / .NET developer and Linux enthusiast. Currently a final year Computer Science student.
+
+My [Mail](supradatripathy789@gmail.com) 
+
+## What I Use
+- Editor: Vs Code, VIM, Nano
+- Operating System: Linux Mint, Windows
+- Hosting : Github, Vercel
 
 ## My Tech Stack
 <p align="center">
