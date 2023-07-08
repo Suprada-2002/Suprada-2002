@@ -10,10 +10,13 @@ My [Mail](supradatripathy789@gmail.com)
 ## What I Use
 - Editor: Vs Code, VIM, Nano
 - Operating System: Linux Mint, Windows
-- Hosting : Github, Vercel
+- Hosting: Github, Vercel
 
 ## My Tech Stack
 <p align="center">
+ <img src="https://img.shields.io/badge/.NET-005C84?style=for-the-badge&logo=dotnet&logoColor=white" />
+   <img src="https://img.shields.io/badge/C%20SHarp-339933?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/c++-005C84?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -32,6 +35,12 @@ My [Mail](supradatripathy789@gmail.com)
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white"/>
 </p>
+
+## Favorite Stack
+  <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" />
+    <img src="https://img.shields.io/badge/vscode-339933?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+      <img src="https://img.shields.io/badge/firebase-29B2FE?style=for-the-badge&logo=firebase&logoColor=white" />
+  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suprada-2002&layout=compact&langs_count=8&theme=dark)
 <!---  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Suprada-2002&show_icons=true&theme=dark"/> --->
