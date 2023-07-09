@@ -1,11 +1,13 @@
-##  Hi, I am <b>Suprada Tripathy 👏
+##  Hi 🖐, I am <b>Suprada Tripathy  😊  
 
 ![suprada](https://github.com/Suprada-2002/Suprada-2002/assets/87217681/2be87aae-50c1-4b31-a63a-78c6b39c9379)
 
 
 I'm a Full Stack Web / .NET developer and Linux enthusiast. Currently a final year Computer Science student.
 
-My [Mail](supradatripathy789@gmail.com) 
+✉️ My [Mail](supradatripathy789@gmail.com) 
+
+🏣 Gandhi Institute of Engineering and Technology 
 
 ## What I Use
 - Editor: Vs Code, VIM, Nano
