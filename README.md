@@ -50,3 +50,5 @@ Leave me a message [Here](https://guestbook-eta.vercel.app/).
 <!---  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Suprada-2002&show_icons=true&theme=dark"/> --->
 
 ![](https://komarev.com/ghpvc/?username=Suprada-2002&color=blue&&align=left)
+
+[![An image of @suprada_tripathy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/suprada_tripathy)](https://holopin.io/@suprada_tripathy)
