@@ -1,4 +1,4 @@
-##  Hi 🖐, I am <b>Suprada Tripathy  😊  
+##  Hi 🖐
 
 ![suprada](https://github.com/Suprada-2002/Suprada-2002/assets/87217681/2be87aae-50c1-4b31-a63a-78c6b39c9379)
 
