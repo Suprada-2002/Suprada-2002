@@ -2,12 +2,9 @@
 
 ![suprada](https://github.com/Suprada-2002/Suprada-2002/assets/87217681/2be87aae-50c1-4b31-a63a-78c6b39c9379)
 
+I'm a Full Stack Web Developer and Linux enthusiast.
 
-I'm a Full Stack Web / .NET developer and Linux enthusiast. Currently a final year Computer Science student.
-
-✉️ My [Mail](supradatripathy789@gmail.com) 
-
-🏣 Gandhi Institute of Engineering and Technology 
+Connect me here : ✉️ My [Mail](supradatripathy789@gmail.com) 
 
 ## What I Use
 - Editor: Vs Code, VIM, Nano
@@ -39,11 +36,6 @@ Leave me a message [Here](https://guestbook-eta.vercel.app/).
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white"/>
 </p>
-
-## Favorite Stack
-  <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" />
-    <img src="https://img.shields.io/badge/vscode-339933?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-      <img src="https://img.shields.io/badge/firebase-29B2FE?style=for-the-badge&logo=firebase&logoColor=white" />
   
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suprada-2002&layout=compact&langs_count=8&theme=dark)
