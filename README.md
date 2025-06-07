@@ -2,7 +2,8 @@
 
 <p>Welcome to my page! </br> I'm Suprada Trpathy, Fullstack developer from India.
 
-Connect me here : ✉️ My [Mail](supradatripathy789@gmail.com) 
+- Currently working at Capgemini as a Fullstack Java developer.
+- Graduated from GIET University in the field of Computer Science.
 
 ### Things I code with
 <p>
