@@ -7,8 +7,7 @@
 
 ### Things I code with
 <p>
- <img src="https://img.shields.io/badge/.NET-005C84?style=for-the-badge&logo=dotnet&logoColor=white" />
-   <img src="https://img.shields.io/badge/C%20SHarp-339933?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%20SHarp-339933?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/c++-005C84?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
