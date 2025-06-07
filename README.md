@@ -30,6 +30,8 @@ Connect me here : ✉️ My [Mail](supradatripathy789@gmail.com)
   
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suprada-2002&layout=compact&langs_count=8&theme=dark)
-<!---  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Suprada-2002&show_icons=true&theme=dark"/> --->
-
-![](https://komarev.com/ghpvc/?username=Suprada-2002&color=blue&&align=left)
+<h3>Where to find me</h3>
+<p>
+  <a href="https://github.com/Suprada-2002" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/suprada-tripathy" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+</p>
